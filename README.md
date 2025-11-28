@@ -59,7 +59,8 @@ El proyecto incluye:
 ---
 
 ## 🎥 Video de YouTube
-*(https://www.youtube.com/watch?v=LMMG2ajQQfk)*
+[![Mira el video en YouTube](https://i.ytimg.com/vi/LMMG2ajQQfk/hqdefault.jpg)]((https://www.youtube.com/watch?v=LMMG2ajQQfk))
+
 
 ---
 
